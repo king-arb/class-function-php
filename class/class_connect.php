@@ -1,12 +1,11 @@
 <?php 
-	#########################################
-	#										#
-	#	Coded by :	Mohammed Taha			#
-	#	Web Site :	www.king-arb.com		#
-	#	E-mail   :	kingarb4@gmail.com		#
-	#	Facebook :	fb.com/imtaha01			#
-	#										#
-	#########################################
+	##################################################################
+	#
+	#	Coded by :	Mohammed Taha
+	#	Web Site :	www.king-arb.com
+	#	E-mail   :	kingarb4@gmail.com
+	#
+	##################################################################
 	class connect_c {
 		
 		private $host, $host_user, $host_pass, $host_db;
@@ -29,12 +28,6 @@
 			}
 		
 		}
-		/*
-		public function select (){
-		
-			
-		
-		}*/
 	
 	}
 	####################################################################	
